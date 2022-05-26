@@ -1,4 +1,4 @@
-# Merge-Sort-Projesi
+# [Merge-Sort-Projesi](www.patika.dev)
 ## [16,21,11,8,12,22] -> Merge Sort
 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 - [16,21,11] [8,12,22] listeyi parçalara ayırmaya başladı.
